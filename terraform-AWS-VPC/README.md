@@ -12,4 +12,5 @@
 10. Route table for private subnet
 11. Route table asssociation with private subnet
 
+![image alt]()
 
