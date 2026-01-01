@@ -7,8 +7,9 @@
 5. Internet gateway(to have internet connection with public subnet)
 6. Route table(for public subnet)
 7. Route table association with public subnet
-8. NAT gateway for private subnet
-9. Route table for private subnet
-10. Route table asssociation with private subnet
+8. Elastic IP
+9. NAT gateway for private subnet
+10. Route table for private subnet
+11. Route table asssociation with private subnet
 
 
