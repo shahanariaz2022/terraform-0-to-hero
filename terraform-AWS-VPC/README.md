@@ -3,12 +3,12 @@
 1. VPC
 2. Availability Zones(2)
 3. Public subnets(2)
-4. Private subnets(2)  
-Internet gateway(to have internet connection with public subnet)
-Route tables(for public subnet)
-Route table association.
-NAT gateway for private subnet
-Route table for private subnet
-Route table asssociation
+4. Private subnets(2)
+5. Internet gateway(to have internet connection with public subnet)
+6. Route table(for public subnet)
+7. Route table association with public subnet
+8. NAT gateway for private subnet
+9. Route table for private subnet
+10. Route table asssociation with private subnet
 
 
