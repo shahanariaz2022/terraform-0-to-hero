@@ -12,5 +12,5 @@
 10. Route table for private subnet
 11. Route table asssociation with private subnet
 
-![image alt]([)](https://github.com/shahanariaz2022/terraform-0-to-hero/blob/main/terraform-AWS-VPC/IMG_4669.jpeg)
+![image alt](https://github.com/shahanariaz2022/terraform-0-to-hero/blob/main/terraform-AWS-VPC/IMG_4669.jpeg)
 
